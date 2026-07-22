@@ -1,0 +1,15 @@
+{
+	"name": "factoryazureprojectsyash",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41558881-5602-47ab-9098-8052569fbf59",
+		"tenantId": "4fd5df7f-6afb-49a4-b650-0992cac8f901"
+	}
+}
