@@ -5,6 +5,8 @@
 			{
 				"name": "azursqltolake",
 				"type": "Copy",
+				"state": "Active",
+				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "Last-cdc",
